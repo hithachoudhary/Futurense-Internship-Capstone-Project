@@ -2,14 +2,14 @@
 
 ## Team Members:  
 
-Team Lead: Hitha Choudhary G    
-Data Analyst: K Shreeshanth Gouda  
-Visualization Specialist: Lakshya Sharma  
+Team Member 1: Hitha Choudhary G    
+Team Member 2: K Shreeshanth Gouda  
+Team Member 3: Lakshya Sharma  
 
 The Strategy Stars team is embarking on a data-driven capstone project aimed at leveraging insights from a comprehensive dataset of olympics data to drive strategic decision-making. The project involves several stages, including data acquisition and exploration, data cleaning and analysis, data visualization, and deriving key inferences from the analyzed data. Each team member has been assigned specific roles and responsibilities to ensure the successful execution of each stage.  
 
-Capstone project deliverables:  
-1.Project outline document with onus for each action item(Which team member is doing what part)  
+***Capstone project deliverables***:  
+1.Project outline document with onus for each action item
 2.Project Executable Source code  
 3.Detailed PPT on insights of the project  
 4.Project report  
