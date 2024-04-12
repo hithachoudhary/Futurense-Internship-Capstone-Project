@@ -4,10 +4,13 @@
 </p>  
 This project delves into the rich history of the Olympic Games using Python for data analysis. We explore fascinating trends and insights hidden within historical Olympic datasets.  
 
+> Details about this repository  
+•[Team Members](#team-members) •[About the Dataset](#about-the-dataset) •[Methodology](#methodology) •[Data-Driven Insights](#data-driven-insights) •[Favourable Outcomes](#favourable-outcomes) •[Deliverables](#deliverables) •[Connect](#connect-with-us)    
+
 # Strategy Stars - Capstone Project  
 The Strategy Stars team is embarking on a data-driven capstone project aimed at leveraging insights from a comprehensive dataset of Olympics data to drive strategic decision-making. The project involves several stages, including data acquisition and exploration, data cleaning and analysis, data visualization, and deriving key inferences from the analyzed data. Each team member has been assigned specific roles and responsibilities to ensure the successful execution of each stage.    
 
-## Team Members    
+# Team Members    
 Hitha Choudhary G     
 K Shreeshanth Gouda    
 Lakshya Sharma    
